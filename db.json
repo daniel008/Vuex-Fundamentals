@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "c83bed70-301e-4543-a474-5831fb25a230",
+      "category": "animal welfare",
+      "title": "adopt cat",
+      "description": "adopt a cat",
+      "location": "Beijing",
+      "date": "15/08/2022",
+      "time": "9:00AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
