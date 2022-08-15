@@ -29,6 +29,25 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "285a2f3f-596e-45c0-8d56-d51dc438103b",
+      "category": "nature",
+      "title": "plan trees",
+      "description": "plan some trees",
+      "location": "Beijing",
+      "date": "15/08/2022",
+      "time": "9:00AM",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "5f222b4b-b96d-44cf-a6d8-406ff0b01095",
+      "category": "education",
+      "title": "read books",
+      "description": "read a few books",
+      "location": "Beijing",
+      "date": "15/08/2022",
+      "time": "9:00AM"
     }
   ]
 }
